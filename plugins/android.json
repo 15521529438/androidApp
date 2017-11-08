@@ -1,0 +1,29 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.app"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.app"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "72a124297a8ee1c90346f871",
+      "PACKAGE_NAME": "com.app"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.app"
+    }
+  }
+}
